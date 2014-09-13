@@ -10,3 +10,5 @@ The website for the resources
 
 ### Contributing...
 use `bower install` to install dependencies, don't add them to the repo.
+
+To get [bower](http://bower.io/) run `npm install -g bower`
