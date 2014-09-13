@@ -7,3 +7,6 @@ The website for the resources
 [Angular.JS](https://angularjs.org/)
 [BootStrap](http://getbootstrap.com/)
 [Typewolf Fonts](http://www.typewolf.com/open-source-web-fonts)
+
+### Contributing...
+use `bower install` to install dependencies, don't add them to the repo.
